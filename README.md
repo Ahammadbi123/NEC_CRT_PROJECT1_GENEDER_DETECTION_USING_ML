@@ -4,7 +4,7 @@ A high-accuracy Gender Detection System using Flask and Machine Learning (Random
 **Project ID:** NEC_CRT_PROJECT1_GENEDER_DETECTION_USING_ML
 
 ##  Project Overview
-This project is an advanced web-based intelligence system designed to identify gender (Male/Female) from human names. It employs a **Triple-Layer Hybrid Architecture** that combines traditional database lookup, linguistic heuristic rules, and a trained Machine Learning model to ensure nearly 100% accuracy.
+This project is an advanced web-based intelligence system designed to identify gender (Male/Female) from human names. It employs a **Triple-Layer Hybrid Architecture** that combines traditional database lookup, linguistic heuristic rules, and a trained Machine Learning model to ensure nearly 95% accuracy.
 
 ---
 
@@ -62,8 +62,8 @@ templates/: HTML structure for the identification dashboard.
 
 Performance & Accuracy
 By integrating Rule-based Logic with Machine Learning, the system effectively handles:
-Known Names: 100% Accuracy
-Unknown Names: ~92% ML Accuracy
+Known Names: 95% Accuracy
+Unknown Names: ~90% ML Accuracy
 Phonetic Patterns: Effectively managed via Suffix Analysis.
 
 
