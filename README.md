@@ -69,7 +69,7 @@ Phonetic Patterns: Effectively managed via Suffix Analysis.
 
 Developed by: SHAIK AHAMMAD BI
 
-## 📸 Project Analysis Output
+## 📸 Project Analysis Results
 
 ![Result 1](https://raw.githubusercontent.com/Ahammadbi123/NEC_CRT_PROJECT1_GENEDER_DETECTION_USING_ML/main/output1.png)
 
