@@ -68,10 +68,15 @@ Phonetic Patterns: Effectively managed via Suffix Analysis.
 
 
 Developed by: SHAIK AHAMMAD BI
-Project Category: Machine Learning / Web Intelligence
-### 📸 Project Analysis Output
 
-![Result 1](output1.png)
-![Result 2](output2.png)
-![Result 3](output3.png)
-![Result 4](output4.png)
+<h2 align="center">📸 Project Analysis Results</h2>
+
+<p align="center">
+  <img src="output1.png" width="400" />
+  <img src="output2.png" width="400" />
+</p>
+
+<p align="center">
+  <img src="output3.png" width="400" />
+  <img src="output4.png" width="400" />
+</p>
