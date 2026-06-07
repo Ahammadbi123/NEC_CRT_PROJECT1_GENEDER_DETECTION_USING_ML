@@ -74,6 +74,6 @@ Project Category: Machine Learning / Web Intelligence
 ## 📸 Project Screenshots & Results
 
 | Analysis - Male Result | Analysis - Female Result |
-|-----------------------|-------------------------|
+|:---:|:---:|
 | ![Result 1](output1.png) | ![Result 2](output2.png) |
 | ![Result 3](output3.png) | ![Result 4](output4.png) |
