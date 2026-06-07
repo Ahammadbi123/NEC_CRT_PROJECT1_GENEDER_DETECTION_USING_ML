@@ -70,12 +70,12 @@ Phonetic Patterns: Effectively managed via Suffix Analysis.
 Developed by: SHAIK AHAMMAD BI
 Project Category: Machine Learning / Web Intelligence
 
-<p align="center">
-  <img src="output1.png" width="400"/>
-  <img src="output2.png" width="400"/>
-</p>
+## 📸 Project Results
 
-<p align="center">
-  <img src="output3.png" width="400"/>
-  <img src="output4.png" width="400"/>
-</p>
+![Output 1](output1.png)
+
+![Output 2](output2.png)
+
+![Output 3](output3.png)
+
+![Output 4](output4.png)
