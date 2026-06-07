@@ -70,13 +70,3 @@ Phonetic Patterns: Effectively managed via Suffix Analysis.
 Developed by: SHAIK AHAMMAD BI
 Project Category: Machine Learning / Web Intelligence
 
-## 📸 Project Analysis Results
-
-![Result 1](https://raw.githubusercontent.com/Ahammadbi123/NEC_CRT_PROJECT1_GENEDER_DETECTION_USING_ML/main/output1.png)
-
-![Result 2](https://raw.githubusercontent.com/Ahammadbi123/NEC_CRT_PROJECT1_GENEDER_DETECTION_USING_ML/main/output2.png)
-
-![Result 3](https://raw.githubusercontent.com/Ahammadbi123/NEC_CRT_PROJECT1_GENEDER_DETECTION_USING_ML/main/output3.png)
-
-![Result 4](https://raw.githubusercontent.com/Ahammadbi123/NEC_CRT_PROJECT1_GENEDER_DETECTION_USING_ML/main/output4.png)
-
