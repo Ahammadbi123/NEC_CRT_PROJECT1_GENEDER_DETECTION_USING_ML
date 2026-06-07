@@ -69,14 +69,15 @@ Phonetic Patterns: Effectively managed via Suffix Analysis.
 
 Developed by: SHAIK AHAMMAD BI
 
-## 📸 System Output & Analysis
+
+## 📸 Project Analysis Results
 
 <p align="center">
-  <img src="output1.png" width="45%" />
-  <img src="output2.png" width="45%" />
+  <img src="output1.png" width="400" />
+  <img src="output2.png" width="400" />
 </p>
 
 <p align="center">
-  <img src="output3.png" width="45%" />
-  <img src="output4.png" width="45%" />
+  <img src="output3.png" width="400" />
+  <img src="output4.png" width="400" />
 </p>
